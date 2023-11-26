@@ -1,0 +1,3 @@
+NAMA : Muhammad Adha Ridwan
+NIM : 19623114
+FAKULTAS/JURUSAN : STEI
