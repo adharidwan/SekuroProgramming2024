@@ -1,0 +1,8 @@
+prefix=/home/adha/sekuro2024/test1/devel
+
+Name: tutorial2
+Description: Description of tutorial2
+Version: 0.0.0
+Cflags: -I/home/adha/sekuro2024/test1/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

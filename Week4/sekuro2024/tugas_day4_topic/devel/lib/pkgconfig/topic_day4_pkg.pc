@@ -1,0 +1,8 @@
+prefix=/home/adha/sekuro2024/tugas_day4_topic/devel
+
+Name: topic_day4_pkg
+Description: Description of topic_day4_pkg
+Version: 0.0.0
+Cflags: -I/home/adha/sekuro2024/tugas_day4_topic/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

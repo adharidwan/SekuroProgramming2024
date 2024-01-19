@@ -1,0 +1,2 @@
+service_day4_pkg
+-DCATKIN_DEVEL_PREFIX=/home/adha/sekuro2024/tugas_day4_service/devel -DCMAKE_INSTALL_PREFIX=/home/adha/sekuro2024/tugas_day4_service/install -G Unix Makefiles

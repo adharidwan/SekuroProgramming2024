@@ -1,0 +1,2 @@
+tutorial2
+-DCATKIN_DEVEL_PREFIX=/home/adha/sekuro2024/test1/devel -DCMAKE_INSTALL_PREFIX=/home/adha/sekuro2024/test1/install -G Unix Makefiles

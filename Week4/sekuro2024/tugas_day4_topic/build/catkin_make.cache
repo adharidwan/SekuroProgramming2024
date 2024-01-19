@@ -1,0 +1,2 @@
+topic_day4_pkg
+-DCATKIN_DEVEL_PREFIX=/home/adha/sekuro2024/tugas_day4_topic/devel -DCMAKE_INSTALL_PREFIX=/home/adha/sekuro2024/tugas_day4_topic/install -G Unix Makefiles

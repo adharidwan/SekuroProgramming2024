@@ -1,0 +1,8 @@
+prefix=/home/adha/sekuro2024/tugas_day4_service/devel
+
+Name: service_day4_pkg
+Description: Description of service_day4_pkg
+Version: 0.0.0
+Cflags: -I/home/adha/sekuro2024/tugas_day4_service/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime
